@@ -11,6 +11,6 @@ The idea behind this ML project is to build an ML model and web application that
 Evaluation Criteria
 Using F1 Score. Its a harmonic mean of precision and recall.
 
-Outcome
+Outcome:
 Based on the data entered on the website and ML Model predicts the whether Loan Application is Approved or Rejected.
 
